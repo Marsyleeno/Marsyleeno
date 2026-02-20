@@ -4,7 +4,7 @@
 👩🏻‍💻 Aspiring Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studying [BS Electronics Engineering](https://www.linkedin.com/in/rom-marcelino-a373b6324/) at Bulacan State University<br/>
 💻 Currently learning about Full Stack Development <br/>
-📨 #looking for internship tech role ECE ICT related job 
+📨 #looking for an internship tech role ECE-ICT related job 
 
 
 # 💻 Tech Stack
