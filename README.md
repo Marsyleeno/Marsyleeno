@@ -1,7 +1,7 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Rom!
-👩🏻‍💻 Aspiring Software Engineer sharing about my journey and learnings in tech<br/>
+👩🏻‍💻 Take a look about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studying [BS Electronics Engineering](https://www.linkedin.com/in/rom-marcelino-a373b6324/) at Bulacan State University<br/>
 💻 Currently learning about Full Stack Development & Embedded System <br/>
 📨 #Aspiring Solution-driven Engineer for Semiconductor Industry
