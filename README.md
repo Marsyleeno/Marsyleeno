@@ -1,7 +1,6 @@
 <!-- Level 3: Add custom code -->
 
 <div align="center">
-  <h1>👋 Hi, I'm Rom Marcelino</h1>
   <h3>⚡ Aspiring Electronics Engineer | Full Stack Development | Business Analytics  </h3>
   <p>
     <a href="https://www.linkedin.com/in/rom-marcelino-a373b6324/" target="_blank">
