@@ -11,14 +11,14 @@
 
 ---
 
-### 👨🏻‍💻 About Me
+### About Me
 
 I am a solution-driven engineering student with a deep focus on bridging physical hardware infrastructure with robust software systems. My journey spans from low-level embedded programming to full-stack development and large-scale network architecture.
 
 * 🎓 Graduating **BS Electronics Engineering** student at Bulacan State University.
-* 🔜 Incoming **Engineering Intern** at **Analog Devices Inc. (ADI)** (Mid-2026).
+* 🧑🏻‍💻 **Product Dev Intern** at **Analog Devices Inc. (ADI)** (Mid-2026).
 * 🔭 Currently deepening my expertise in **.NET framework, C# API integration**, and full-stack environments.
-* 🚀 **Long-term vision:** Evolving into a Cloud Engineer at NVIDIA, building the infrastructure that powers next-generation technologies.
+* 🚀 **Long-term vision:** Evolving into a Cloud Engineer, building the infrastructure that powers next-generation technologies.
 
 ---
 
