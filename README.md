@@ -1,7 +1,7 @@
 <!-- Level 3: Add custom code -->
 
 <div align="center">
-  <h3>⚡ Aspiring Electronics Engineer | Full Stack Developer | Business Analyst  </h3>
+  <h3>⚡  Electronics Engineering | JUNE 2027 GRADUATION </h3>
   <p>
     <a href="https://www.linkedin.com/in/rom-marcelino-a373b6324/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -13,12 +13,10 @@
 
 ### About Me
 
-I am a solution-driven engineering student with a deep focus on bridging physical hardware infrastructure with robust software systems. My journey spans from low-level embedded programming to full-stack development and large-scale network architecture.
-
 * 🎓 Graduating **BS Electronics Engineering** student at Bulacan State University.
-* 🧑🏻‍💻 **Product Dev Intern** at **Analog Devices Inc. (ADI)** (Mid-2026).
-* 🔭 Currently deepening my expertise in **.NET framework, C# API integration**, and full-stack environments.
-* 🚀 **Long-term vision:** Evolving into a Cloud Engineer, building the infrastructure that powers next-generation technologies.
+* 💻 **Product Dev Intern** at **Analog Devices, Inc. (ADI)** (Mid-2026).
+* 🔭 Currently deepening my expertise on **.Semiconductor and IT Business Field using recent technology
+* Motto: “An idiot in motion will go further than a genius at rest” 
 
 ---
 
@@ -52,8 +50,11 @@ I am a solution-driven engineering student with a deep focus on bridging physica
 
 ### 📜 Certifications
 
-* 🏅 **MathWorks:** Circuit Simulation Onramp
-* 🏅 **MathWorks:** Control Design Onramp with Simulink
+* 🏅 **Lean Six Sigma White Belt** – Workday Training
+* 🏅 **Design Verification** Workshop - Academe Expo 2026
+* 🏅 **Software Application** Workshop - Academe Expo 2026
+* 🏅 **MathWorks:** Debugging & Error Handling
+* 🏅 **MathWorks:** Programming Fundamentals
 
 <br>
 
