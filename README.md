@@ -1,7 +1,7 @@
 <!-- Level 3: Add custom code -->
 
 <div align="center">
-  <h3>⚡  Electronics Engineering | JUNE 2027 GRADUATION </h3>
+  <h3> JUNE 2027 GRADUATION </h3>
   <p>
     <a href="https://www.linkedin.com/in/rom-marcelino-a373b6324/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
