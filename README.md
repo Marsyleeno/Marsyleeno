@@ -13,10 +13,10 @@
 
 ### About Me
 
-* 🎓 Graduating **BS Electronics Engineering** student at Bulacan State University.
+* 🎓 Graduating **BS Electronics Engineering** graduate at Bulacan State University.
 * 💻 **Product Dev Intern** at **Analog Devices, Inc. (ADI)** (Mid-2026).
 * 🔭 Currently deepening my expertise on **.Semiconductor and IT Business Field using recent technology
-*  “An idiot in motion will go further than a genius at rest” 
+“An idiot in motion will go further than a genius at rest” 
 
 ---
 
