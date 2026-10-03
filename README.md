@@ -13,7 +13,7 @@
 
 ### About Me
 
-* 🎓 Graduating **BS Electronics Engineering** graduate at Bulacan State University.
+* 🎓 Education: **BS Electronics Engineering** graduate at Bulacan State University.
 * 💻 **Product Dev Intern** at **Analog Devices, Inc. (ADI)** (Mid-2026).
 * 🔭 Currently deepening my expertise on **Semiconductor and IT Business Field** using recent technology
 
