@@ -12,7 +12,7 @@
 
 <a href="https://www.linkedin.com/in/rom-marcelino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> 
+<a href="mailto:romgmarcelino@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 </div>
 
@@ -138,9 +138,14 @@ analog devices confidential and proprietary
 
 ## Beyond the Code
 
-*  **Profile signal:** 113 contributions in the last year
-*  **Builder energy:** 13 public repositories
-*  **Open to:** interesting collaborations, business agenda
+* 🏅 **Lean Six Sigma White Belt** – Workday Training
+* 🏅 **Design Verification** Workshop - Academe Expo 2026
+* 🏅 **Software Application** Workshop - Academe Expo 2026
+* 🏅 **MathWorks:** Debugging & Error Handling
+
+>  **Profile signal:** 113 contributions in the last year
+>
+>  **Open to:** interesting collaborations, business agenda
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=marsyleeno&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
@@ -148,10 +153,8 @@ analog devices confidential and proprietary
 
 ## 🤝 Let's Build Something Meaningful
 
-I build useful software and enjoy turning ambitious ideas into working products.
+I build software and enjoy turning ambitious ideas into working products.
 
 <a href="mailto:romgmarcelino@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-
-<br/><br/>
 
 </div>
