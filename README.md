@@ -33,7 +33,7 @@ const marsyleeno: Developer = {
 
 > Bulacan State University - Full Scholar
 > 
-> **Former Intern @ Analog Devices, Inc.**
+> **Ex-Intern @ Analog Devices, Inc.**
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=marsyleeno&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
